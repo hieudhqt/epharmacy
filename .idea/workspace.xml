@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="epharmacy:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4c28a16-7d04-44a4-be74-09cc3fc3778d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@google-cloud-sql" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@google-cloud-sql" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Hieu Hoang Le &lt;hieudhqt@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZzTKj031hFMvHzAThSz3s6sTd6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hieu.swd.epharmacy.exception" />
+      <recent name="com.hieu.swd.epharmacy.app" />
+      <recent name="com.hieu.swd.epharmacy" />
+      <recent name="com.hieu.swd.epharmacy.account.response" />
+      <recent name="com.hieu.swd.epharmacy.account.request" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hieu.swd.epharmacy.app.supplier" />
+      <recent name="com.hieu.swd.epharmacy.app.unit" />
+      <recent name="com.hieu.swd.epharmacy.app.category" />
+      <recent name="com.hieu.swd.epharmacy.app.drug" />
+      <recent name="com.hieu.swd.epharmacy.app.prescriptiondetails" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EpharmacyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="epharmacy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hieu.swd.epharmacy.EpharmacyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4c28a16-7d04-44a4-be74-09cc3fc3778d" name="Default Changelist" comment="" />
+      <created>1585840860304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585840860304</updated>
+      <workItem from="1585840868042" duration="433000" />
+      <workItem from="1585841373718" duration="7678000" />
+      <workItem from="1585874103167" duration="1203000" />
+      <workItem from="1585875683870" duration="73000" />
+      <workItem from="1585875768281" duration="47000" />
+      <workItem from="1585875818928" duration="2269000" />
+      <workItem from="1585886174755" duration="4997000" />
+      <workItem from="1585908926551" duration="6245000" />
+      <workItem from="1585921166370" duration="593000" />
+      <workItem from="1585923257313" duration="5257000" />
+      <workItem from="1585929282092" duration="3157000" />
+      <workItem from="1585977737495" duration="758000" />
+      <workItem from="1585980554548" duration="5721000" />
+      <workItem from="1585993553213" duration="2746000" />
+      <workItem from="1585999497076" duration="9990000" />
+      <workItem from="1586086559214" duration="7654000" />
+      <workItem from="1586166198685" duration="7580000" />
+      <workItem from="1586181946712" duration="648000" />
+      <workItem from="1586183258031" duration="10309000" />
+      <workItem from="1586220013339" duration="36529000" />
+      <workItem from="1586340134167" duration="2017000" />
+      <workItem from="1586401978837" duration="22726000" />
+      <workItem from="1586476760307" duration="4238000" />
+      <workItem from="1586494199941" duration="21278000" />
+      <workItem from="1586565063217" duration="33872000" />
+      <workItem from="1586651151835" duration="26446000" />
+      <workItem from="1586696897733" duration="13977000" />
+      <workItem from="1586735431284" duration="39950000" />
+      <workItem from="1586830976571" duration="5948000" />
+      <workItem from="1586850396845" duration="11097000" />
+      <workItem from="1586875340911" duration="16693000" />
+      <workItem from="1586907741144" duration="2552000" />
+      <workItem from="1587168196674" duration="1271000" />
+      <workItem from="1591101611269" duration="96000" />
+      <workItem from="1594129854452" duration="80000" />
+      <workItem from="1602255094305" duration="436000" />
+      <workItem from="1602255678869" duration="671000" />
+      <workItem from="1602861935624" duration="1973000" />
+      <workItem from="1604395280571" duration="496000" />
+      <workItem from="1605023130915" duration="311000" />
+      <workItem from="1605023468474" duration="1208000" />
+      <workItem from="1605025782569" duration="2291000" />
+      <workItem from="1605032438096" duration="213000" />
+      <workItem from="1605081702095" duration="1113000" />
+      <workItem from="1605082861881" duration="1863000" />
+      <workItem from="1605084997856" duration="22000" />
+      <workItem from="1605100352080" duration="1205000" />
+      <workItem from="1605114225178" duration="1024000" />
+      <workItem from="1605164214901" duration="96000" />
+      <workItem from="1605164514417" duration="937000" />
+      <workItem from="1608463957508" duration="400000" />
+      <workItem from="1608464391171" duration="109000" />
+      <workItem from="1608464515790" duration="485000" />
+      <workItem from="1608465539210" duration="1319000" />
+    </task>
+    <task id="LOCAL-00001" summary="Modification on models">
+      <created>1586197118859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586197118859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add request and response DTO &#10;Modify Prescription repository">
+      <created>1586273700666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586273700666</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Modify Prescription repository&#10;Create REST API for Prescription">
+      <created>1586439082592</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586439082592</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Category and Drug REST API&#10;Fix error in PrescriptionDetailsRepositoryImpl">
+      <created>1586578712224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586578712224</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Applying Pagination Manually&#10;Complete Google Token Sign-in&#10;Applying FCM (Pending)">
+      <created>1586704837001</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586704837001</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Testing FCM successfully (Not implementing yet)&#10;Add exception handler&#10;Add API description for Swagger">
+      <created>1586798012077</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586798012077</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implement FCM on Account API and Prescription API&#10;Add some validation">
+      <created>1586855749196</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586855749196</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix bugs on Drug API and PageResult">
+      <created>1586865005143</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586865005143</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add Supplier and Unit REST API">
+      <created>1587168873629</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587168873629</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix git pushing">
+      <created>1608471525678</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608471525678</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fix git pushing">
+      <created>1608471598623</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608471598623</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modification on models" />
+    <MESSAGE value="Add request and response DTO &#10;Modify Prescription repository" />
+    <MESSAGE value="Modify Prescription repository&#10;Create REST API for Prescription" />
+    <MESSAGE value="Add Category and Drug REST API&#10;Fix error in PrescriptionDetailsRepositoryImpl" />
+    <MESSAGE value="Applying Pagination Manually&#10;Complete Google Token Sign-in&#10;Applying FCM (Pending)" />
+    <MESSAGE value="Testing FCM successfully (Not implementing yet)&#10;Add exception handler&#10;Add API description for Swagger" />
+    <MESSAGE value="Implement FCM on Account API and Prescription API&#10;Add some validation" />
+    <MESSAGE value="Fix bugs on Drug API and PageResult" />
+    <MESSAGE value="Add Supplier and Unit REST API" />
+    <MESSAGE value="Fix git pushing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix git pushing" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="218" width="800" height="684" key="#Updates" timestamp="1602255507690">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="586" y="218" width="800" height="684" key="#Updates/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1602255507690" />
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602862323732">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1602862323732" />
+    <state x="679" y="290" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602255515360">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="679" y="290" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1602255515360" />
+    <state x="561" y="130" width="860" height="854" key="CommitChangelistDialog2" timestamp="1608471598568">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="561" y="130" width="860" height="854" key="CommitChangelistDialog2/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1608471598568" />
+    <state width="1802" height="584" key="GridCell.Tab.0.bottom" timestamp="1605165599315">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="584" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605115256149" />
+    <state width="1802" height="584" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1605165599315" />
+    <state width="1802" height="584" key="GridCell.Tab.0.center" timestamp="1605165599315">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="584" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605115256149" />
+    <state width="1802" height="584" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1605165599315" />
+    <state width="1802" height="584" key="GridCell.Tab.0.left" timestamp="1605165599314">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="584" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605115256149" />
+    <state width="1802" height="584" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1605165599314" />
+    <state width="1802" height="584" key="GridCell.Tab.0.right" timestamp="1605165599315">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="584" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605115256149" />
+    <state width="1802" height="584" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1605165599315" />
+    <state width="1802" height="584" key="GridCell.Tab.1.bottom" timestamp="1605165599316">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="584" key="GridCell.Tab.1.bottom/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605115256149" />
+    <state width="1802" height="584" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1605165599316" />
+    <state width="1802" height="584" key="GridCell.Tab.1.center" timestamp="1605165599316">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="584" key="GridCell.Tab.1.center/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605115256149" />
+    <state width="1802" height="584" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1605165599316" />
+    <state width="1802" height="584" key="GridCell.Tab.1.left" timestamp="1605165599315">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="584" key="GridCell.Tab.1.left/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605115256149" />
+    <state width="1802" height="584" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1605165599315" />
+    <state width="1802" height="584" key="GridCell.Tab.1.right" timestamp="1605165599316">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="584" key="GridCell.Tab.1.right/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605115256149" />
+    <state width="1802" height="584" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1605165599316" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1608464371570">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1608464371570" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1604395688947" />
+    <state x="737" y="239" width="508" height="636" key="VCS.ChangeListViewerDialog" timestamp="1608471560708">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="737" y="239" width="508" height="636" key="VCS.ChangeListViewerDialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1608471560708" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1608470880778">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1608470880778" />
+    <state x="172" y="127" width="1648" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605024349198">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="172" y="127" width="1648" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1605024349198" />
+    <state x="594" y="403" width="794" height="308" key="git4idea.ui.GitUnstashDialog" timestamp="1608471565492">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="594" y="403" width="794" height="308" key="git4idea.ui.GitUnstashDialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1608471565492" />
+  </component>
+</project>

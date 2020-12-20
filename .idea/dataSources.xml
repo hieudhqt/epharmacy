@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="epharmacy@localhost" uuid="2036312b-c744-48e0-9923-551d6185f048">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/epharmacy</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@google-cloud-sql" uuid="ab98a95a-4adb-4560-bb43-66668607be44">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://35.247.150.123:3306/epharmacy</jdbc-url>
+    </data-source>
+  </component>
+</project>
