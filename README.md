@@ -15,7 +15,7 @@ Scan Vietnamese prescription using Firebase MLKit
 - Web application: Spring Boot
 ## Client side configuration
 - Native Android
-- Source code: Update later
+- Source code: https://github.com/ntd0134/E-Pharmacy_NativeAndroid
 # Author
 - Le Hoang Hieu - K13 - FPT University HCM: Server side
 - Nguyen Thanh Dat - K13 - FPT University HCM: Client side
